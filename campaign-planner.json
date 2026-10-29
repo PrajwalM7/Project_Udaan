@@ -1,0 +1,113 @@
+{
+    "exportedAt": "2026-10-28T18:54:20.031Z",
+    "goal": 500,
+    "durationDays": 7,
+    "budget": 2000,
+    "channels": [
+        {
+            "id": "clubs",
+            "name": "College clubs and student ambassadors",
+            "audience": 200,
+            "conversion": 10,
+            "actual": 0,
+            "estimatedRegistrations": 20
+        },
+        {
+            "id": "whatsapp",
+            "name": "WhatsApp student communities",
+            "audience": 150,
+            "conversion": 12,
+            "actual": 0,
+            "estimatedRegistrations": 18
+        },
+        {
+            "id": "linkedin",
+            "name": "LinkedIn and student communities",
+            "audience": 100,
+            "conversion": 8,
+            "actual": 0,
+            "estimatedRegistrations": 8
+        },
+        {
+            "id": "email",
+            "name": "Email outreach",
+            "audience": 80,
+            "conversion": 5,
+            "actual": 0,
+            "estimatedRegistrations": 4
+        }
+    ],
+    "budgetAllocations": [
+        {
+            "id": "creative",
+            "name": "Promotional creative materials",
+            "amount": 300
+        },
+        {
+            "id": "ambassador",
+            "name": "Student ambassador incentives",
+            "amount": 800
+        },
+        {
+            "id": "targeted",
+            "name": "Optional targeted promotion",
+            "amount": 600
+        },
+        {
+            "id": "contingency",
+            "name": "Contingency",
+            "amount": 300
+        }
+    ],
+    "timeline": [
+        {
+            "day": 1,
+            "activity": "",
+            "channel": "",
+            "completed": false
+        },
+        {
+            "day": 2,
+            "activity": "",
+            "channel": "",
+            "completed": false
+        },
+        {
+            "day": 3,
+            "activity": "",
+            "channel": "",
+            "completed": false
+        },
+        {
+            "day": 4,
+            "activity": "",
+            "channel": "",
+            "completed": false
+        },
+        {
+            "day": 5,
+            "activity": "",
+            "channel": "",
+            "completed": false
+        },
+        {
+            "day": 6,
+            "activity": "",
+            "channel": "",
+            "completed": false
+        },
+        {
+            "day": 7,
+            "activity": "",
+            "channel": "",
+            "completed": false
+        }
+    ],
+    "summary": {
+        "totalEstimatedRegistrations": 50,
+        "totalActualRegistrations": 0,
+        "remainingRegistrations": 500,
+        "totalBudgetAllocated": 2000,
+        "remainingBudget": 0
+    }
+}
